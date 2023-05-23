@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Modules</string>
+
+    <string name="modCode">Module Code: </string>
+    <string name="modName">Module Name: </string>
+
+    <string name="acadYear">Academic Year: 2023</string>
+    <string name="sem">Semester: 1</string>
+
+    <string name="modCred">Module Credit: </string>
+    <string name="cred1">1</string>
+    <string name="cred4">4</string>
+
+    <string name="Venue">Venue: </string>
+    <string name="w64p">W64P</string>
+    <string name="e63a">E63A</string>
+
+    <string name="c203">C203</string>
+    <string name="c203Mod">Web Appln Development in php</string>
+    <string name="c203Full">C203 Web Appln Development in php</string>
+
+    <string name="c206">C206</string>
+    <string name="c206Mod">Software Development Process</string>
+    <string name="c206Full">C206 Software Development Process</string>
+
+    <string name="c218">C218</string>
+    <string name="c218Mod">UI/UX Design for Apps</string>
+    <string name="c218Full">C218 UI/UX Design for Apps</string>
+
+    <string name="c235">C235</string>
+    <string name="c235Mod">IT Security and Management</string>
+    <string name="c235Full">C235 IT Security and Management</string>
+
+    <string name="c346">C346</string>
+    <string name="c346Mod">Mobile App Development</string>
+    <string name="c346Full">C346 Mobile App Development</string>
+
+    <string name="g935">G935</string>
+    <string name="g935Mod">Life Skills III</string>
+    <string name="g935Full">G935 Life Skills III</string>
+</resources>
